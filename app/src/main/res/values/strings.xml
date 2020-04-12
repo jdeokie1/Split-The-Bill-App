@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Split Bill App</string>
+    <string name="appTitle">Welcome to Split Bill App</string>
+    <string name="subheading">Check the Suggested Tip Below</string>
+    <string name="btn1">Enter</string>
+    <string name="tip1">20% Excellent Service</string>
+    <string name="tip2">15% Average Service</string>
+    <string name="tip3">10% Poor Service</string>
+    <string name="tip4">Specify your own tip</string>
+    <string name="imagedescription1">Split the Bill Image</string>
+    <string name="subheading2">Please enter the billing information - </string>
+    <string name="btn2">Split Bill</string>
+    <string name="imagedescription2">Dining</string>
+    <string name="prompt1">Enter the billed amount </string>
+    <string name="prompt2">Enter the # of people</string>
+    <string name="prompt3">Enter other amount</string>
+    <string name="tipSelection"></string>
+    <string name="percentagesign">%</string>
+
+
+    <string-array name="tipchoices">
+        <item>20% Excellent</item>
+        <item>15% Average</item>
+        <item>10% Poor</item>
+        <item>Other (Specify)</item>
+    </string-array>
+
+
+</resources>
